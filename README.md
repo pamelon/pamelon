@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @pamelon
 - 👀 I’m interested in Azure, Deep Learning and AI Ethics
-- 🌱 I’m currently learning making Galaxy Buns hairstyles
-- 💞️ I’m looking to collaborate on anything interesting! Hit me up
-- 📫 How to reach me: Pamela Krzypkowska on any social media.
+- 🌱 I’m currently learning making Galaxy Buns hairstyles!
